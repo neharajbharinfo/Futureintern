@@ -1,0 +1,57 @@
+Generated text output based on the Markov model.
+
+### Example Inputs & Outputs
+
+#### 1️⃣ Input:
+```
+The quick brown fox jumps over the lazy dog.
+```
+#### 1️⃣ Output:
+```
+The quick brown fox jumps over the lazy.
+```
+
+---
+
+#### 2️⃣ Input:
+```
+Artificial intelligence is transforming the world in unprecedented ways.
+```
+#### 2️⃣ Output:
+```
+Artificial intelligence is transforming the world in ways.
+```
+
+---
+
+#### 3️⃣ Input:
+```
+Deep learning models require vast amounts of data to learn effectively.
+```
+#### 3️⃣ Output:
+```
+Deep learning models require vast amounts of data to learn.
+```
+
+---
+
+#### 4️⃣ Input:
+```
+The future of technology lies in the hands of those who innovate and adapt.
+```
+#### 4️⃣ Output:
+```
+The future of technology lies in the hands of those who innovate.
+```
+
+---
+
+#### 5️⃣ Input:
+```
+Markov chains are widely used for natural language processing applications.
+```
+#### 5️⃣ Output:
+```
+Markov chains are widely used for natural language processing.
+```
+
