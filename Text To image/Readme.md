@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 ### 📥 Installation
 #### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/your-username/image-generation-pretrained-models.git
+git clone https://github.com/Neharajbharinfo/image-generation-pretrained-models.git
 cd image-generation-pretrained-models
 ```
 
