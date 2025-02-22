@@ -1,48 +1,50 @@
-# ✨ Text Generation with GPT-2  
+# 🚀 Generate Text using GPT-2
 
-## 📝 Overview  
-This project demonstrates how to use **GPT-2**, a powerful text generation model by OpenAI, to generate coherent and contextually relevant text based on a given prompt. The model is fine-tuned on a custom dataset to mimic the style and structure of the training data.  
+## 📌 Project Overview
+This project demonstrates how to use **GPT-2**, a powerful transformer model by OpenAI, to generate text based on a given prompt. The model is fine-tuned on a custom dataset to create meaningful and structured text outputs.
 
-## 🌟 Features  
-- 🔥 Generate text using GPT-2  
-- 🎯 Fine-tune the model on your own dataset  
-- 📊 Create AI-generated text that aligns with specific writing styles  
+## 🔧 Installation & Requirements
+Ensure you have the following dependencies installed:
 
-## 🔧 Requirements  
-- 🐖 Python 3.6+  
-- 🤖 Transformers library  
-- 🔬 PyTorch or TensorFlow  
-
-## 👆 Installation  
-
-1️⃣ Clone the repository:  
-
-```bash  
-git clone https://github.com/neharajbharinfo/gpt2-text-generation.git  
-cd gpt2-text-generation  
+```bash
+pip install torch transformers datasets
 ```
 
-2️⃣ Install the required packages:  
+## 📜 How to Run
+1️⃣ Open the Jupyter Notebook:
 
-```bash  
-pip install transformers torch  # or tensorflow if you prefer TensorFlow  
+```bash
+jupyter notebook Generate_text_using_GPT2.ipynb
 ```
 
-## 🚀 Usage  
+2️⃣ Run each cell sequentially to:
+   - Load the GPT-2 model
+   - Fine-tune the model on a dataset
+   - Generate text based on a prompt
 
-1️⃣ Prepare your dataset as a plain text file.  
+## 🛠️ Dependencies
+This project requires the following Python libraries:
 
-2️⃣ Fine-tune the GPT-2 model on your dataset.  
+```python
+import torch
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
+```
 
-3️⃣ Use the fine-tuned model to generate text based on a prompt.  
+## 🎯 Expected Output
+After running the notebook, the model will generate text based on the input prompt. Example:
 
-## 🤝 Contributing  
-Contributions are welcome! Feel free to open an **issue** or submit a **pull request**.  
+```text
+Input: "Once upon a time in a faraway land"
+Output: "Once upon a time in a faraway land, there was a kingdom full of mysteries and magic..."
+```
 
-## 💌 Contact  
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request.
+
+## 📫 Contact
 📧 Email: [neharajbhar2113@gmail.com](mailto:neharajbhar2113@gmail.com)  
 🔗 LinkedIn: [neharajbhar](https://www.linkedin.com/in/neharajbhar)  
 
----  
-🌟 If you find this project useful, give it a star! 😊  
+---
+⭐ If you find this project useful, give it a star! 😊
 
