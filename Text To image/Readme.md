@@ -72,4 +72,6 @@ Run the script and check the output folder for the generated image.
 
 ---
 This document provides an overview and basic instructions to get started with the project. For detailed usage, refer to the documentation inside the repository.
+output sample image   ![image](https://github.com/user-attachments/assets/d8cd52e3-4a9c-4865-b938-05379d401024)
+
 
